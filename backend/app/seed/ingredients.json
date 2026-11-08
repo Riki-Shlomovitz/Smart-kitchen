@@ -1,0 +1,279 @@
+[
+ {
+  "name": "מלח",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": true
+ },
+ {
+  "name": "פלפל שחור",
+  "synonyms": [
+   "פלפל"
+  ],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": true
+ },
+ {
+  "name": "שמן",
+  "synonyms": [
+   "שמן קנולה",
+   "שמן זית"
+  ],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": true
+ },
+ {
+  "name": "סוכר",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": true
+ },
+ {
+  "name": "קמח",
+  "synonyms": [
+   "קמח לבן"
+  ],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": true
+ },
+ {
+  "name": "מים",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": true
+ },
+ {
+  "name": "עוף",
+  "synonyms": [
+   "חזה עוף",
+   "שוקי עוף"
+  ],
+  "kosher_type": "meat",
+  "store_section": "meat_poultry",
+  "shelf_life_days": 2,
+  "is_staple_default": false
+ },
+ {
+  "name": "בשר בקר",
+  "synonyms": [
+   "בקר טחון"
+  ],
+  "kosher_type": "meat",
+  "store_section": "meat_poultry",
+  "shelf_life_days": 3,
+  "is_staple_default": false
+ },
+ {
+  "name": "אורז",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": false
+ },
+ {
+  "name": "פסטה",
+  "synonyms": [
+   "ספגטי"
+  ],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": false
+ },
+ {
+  "name": "עגבניות",
+  "synonyms": [
+   "עגבנייה"
+  ],
+  "kosher_type": "parve",
+  "store_section": "produce",
+  "shelf_life_days": 7,
+  "is_staple_default": false
+ },
+ {
+  "name": "מלפפונים",
+  "synonyms": [
+   "מלפפון"
+  ],
+  "kosher_type": "parve",
+  "store_section": "produce",
+  "shelf_life_days": 7,
+  "is_staple_default": false
+ },
+ {
+  "name": "בצל",
+  "synonyms": [
+   "בצלים"
+  ],
+  "kosher_type": "parve",
+  "store_section": "produce",
+  "shelf_life_days": 30,
+  "is_staple_default": false
+ },
+ {
+  "name": "שום",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "produce",
+  "shelf_life_days": 30,
+  "is_staple_default": false
+ },
+ {
+  "name": "גזר",
+  "synonyms": [
+   "גזרים"
+  ],
+  "kosher_type": "parve",
+  "store_section": "produce",
+  "shelf_life_days": 14,
+  "is_staple_default": false
+ },
+ {
+  "name": "תפוחי אדמה",
+  "synonyms": [
+   "תפו\"א"
+  ],
+  "kosher_type": "parve",
+  "store_section": "produce",
+  "shelf_life_days": 30,
+  "is_staple_default": false
+ },
+ {
+  "name": "חציל",
+  "synonyms": [
+   "חצילים"
+  ],
+  "kosher_type": "parve",
+  "store_section": "produce",
+  "shelf_life_days": 7,
+  "is_staple_default": false
+ },
+ {
+  "name": "קישוא",
+  "synonyms": [
+   "קישואים"
+  ],
+  "kosher_type": "parve",
+  "store_section": "produce",
+  "shelf_life_days": 7,
+  "is_staple_default": false
+ },
+ {
+  "name": "ביצים",
+  "synonyms": [
+   "ביצה"
+  ],
+  "kosher_type": "parve",
+  "store_section": "dairy_eggs",
+  "shelf_life_days": 21,
+  "is_staple_default": false
+ },
+ {
+  "name": "חלב",
+  "synonyms": [],
+  "kosher_type": "dairy",
+  "store_section": "dairy_eggs",
+  "shelf_life_days": 7,
+  "is_staple_default": false
+ },
+ {
+  "name": "שמנת מתוקה",
+  "synonyms": [
+   "שמנת לבישול",
+   "שמנת"
+  ],
+  "kosher_type": "dairy",
+  "store_section": "dairy_eggs",
+  "shelf_life_days": 10,
+  "is_staple_default": false
+ },
+ {
+  "name": "גבינה צהובה",
+  "synonyms": [],
+  "kosher_type": "dairy",
+  "store_section": "dairy_eggs",
+  "shelf_life_days": 21,
+  "is_staple_default": false
+ },
+ {
+  "name": "גבינה לבנה",
+  "synonyms": [
+   "קוטג'"
+  ],
+  "kosher_type": "dairy",
+  "store_section": "dairy_eggs",
+  "shelf_life_days": 10,
+  "is_staple_default": false
+ },
+ {
+  "name": "חמאה",
+  "synonyms": [],
+  "kosher_type": "dairy",
+  "store_section": "dairy_eggs",
+  "shelf_life_days": 30,
+  "is_staple_default": false
+ },
+ {
+  "name": "שמרים",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": false
+ },
+ {
+  "name": "עדשים",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": false
+ },
+ {
+  "name": "חומוס יבש",
+  "synonyms": [
+   "גרגירי חומוס"
+  ],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": false
+ },
+ {
+  "name": "רסק עגבניות",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "pantry",
+  "shelf_life_days": null,
+  "is_staple_default": false
+ },
+ {
+  "name": "כמון",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "spices",
+  "shelf_life_days": null,
+  "is_staple_default": false
+ },
+ {
+  "name": "פפריקה",
+  "synonyms": [],
+  "kosher_type": "parve",
+  "store_section": "spices",
+  "shelf_life_days": null,
+  "is_staple_default": false
+ }
+]

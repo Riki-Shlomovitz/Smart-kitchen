@@ -1,0 +1,2 @@
+{ "name": "Cookly", "short_name": "Cookly", "lang": "he", "dir": "rtl", "start_url": "/",
+  "display": "standalone", "background_color": "#ffffff", "theme_color": "#e8590c", "icons": [] }
